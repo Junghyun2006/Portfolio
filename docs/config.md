@@ -493,9 +493,13 @@ By default, Hydejack includes its own favicon, as well as app icons in 8 differe
 | Name               | Resolution |
 |:-------------------|-----------:|
 | `icon-512x512.png` |  `512x512` |
+| `icon-384x384.png` |  `384x384` |
 | `icon-192x192.png` |  `192x192` |
-| `icon-32x32.png`   |  `32x32`   |
-| `icon-16x16.png`   |  `16x16`   |
+| `icon-152x152.png` |  `152x152` |
+| `icon-144x144.png` |  `144x144` |
+| `icon-128x128.png` |  `128x128` |
+| `icon-96x96.png`   |    `96x96` |
+| `icon-72x72.png`   |    `72x72` |
 
 To change the default icons you have to replce all of them. To make this manageable, I recommend using the following tools:
 

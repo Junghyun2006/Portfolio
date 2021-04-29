@@ -52,10 +52,12 @@ menu:
     url:               /resume/
   - title:             Projects
     url:               /projects/
-  - title:             Blog
-    url:               /blog/
-  - title:             Documentation
-    url:               /docs/
+  - title:             Contact Me
+    url:               /contactme/
+  # - title:             Blog
+  #   url:               /blog/
+  # - title:             Documentation
+  #   url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -353,7 +355,7 @@ plugins:
 #   yandex:              <verification-id>
 
 # Used for twitter cards
-# twitter:
+# linkedin:
 #   username:            <username>
 
 # Used for facebook open graph

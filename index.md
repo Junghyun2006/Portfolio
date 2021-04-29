@@ -5,7 +5,7 @@ sitemap: false
 ---
 
 <div class="main">
-    <img class="profile-image" src="/assets/img/projects/profile.jpg">
+    <img class="profile-image" src="/assets/img/profile.jpg">
     <div class="about-me-text">My name is Jung and I'm a Software Engineer experienced in JavaScript (React, Redux, Node), MERN, and Ruby on Rails with a background in Finance and Accounting. I have a passion for drawing and I love solving real world problems and putting my creativity to the test! </div>
 <div><style>
     .main {

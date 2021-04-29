@@ -2,6 +2,8 @@
 layout: about
 title: About Me
 cover: true
+image: 
+  path: /assets/img/profile.jpg
 # sitemap: false
 ---
 

@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: about
 title: About Me
-sitemap: false
+cover: true
+# sitemap: false
 ---
 
 <div class="main">
